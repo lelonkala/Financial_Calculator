@@ -6,6 +6,7 @@ Bond Calculation: Calculate monthly repayments on a home loan.
 Investment Calculation: Calculate the total amount after a given period with simple or compound interest.
 Case-insensitive Input: The program handles user input case-insensitively for ease of use.
 Loop for Multiple Calculations: Users can choose to perform multiple calculations in a single session.
+***New line***
 
 # Usage
 Clone the repository:
