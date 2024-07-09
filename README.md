@@ -59,7 +59,7 @@ Annual interest rate (percentage).
 Number of years for investment.
 Type of interest (simple or compound).
 Formulas:
-Simple Interest:
+Simple Interest Formula:
 𝐴
 =
 𝑃
@@ -72,7 +72,8 @@ Simple Interest:
 𝑡
 )
 A=P⋅(1+r⋅t)
-Compound Interest:
+
+Compound Interest Formula:
 𝐴
 =
 𝑃
