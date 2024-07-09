@@ -16,8 +16,8 @@ cd financial_calculator
 python financial_calculator.py
 
 # Calculation Details
-Bond Calculation
-Inputs:
+ # Bond Calculation
+        Inputs:
         Present value of the house.
         Annual interest rate (percentage).
         Number of months to repay the bond.
@@ -53,14 +53,14 @@ i is the monthly interest rate (annual interest rate divided by 12).
 n is the number of months to repay the bond.
 
 
-Investment Calculation
-Inputs:
-Amount of money deposited.
-Annual interest rate (percentage).
-Number of years for investment.
-Type of interest (simple or compound).
-Formulas:
-Simple Interest:
+ # Investment Calculation
+        Inputs:
+        Amount of money deposited.
+        Annual interest rate (percentage).
+        Number of years for investment.
+        Type of interest (simple or compound).
+        Formulas:
+        Simple Interest:
 𝐴
 =
 𝑃
@@ -73,7 +73,7 @@ Simple Interest:
 𝑡
 )
 A=P⋅(1+r⋅t)
-Compound Interest:
+## Compound Interest:
 𝐴
 =
 𝑃
