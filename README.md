@@ -127,3 +127,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 # Author
 Nombulelo Prudence Nkala
 lelonkala
+
+
+
+![image](https://github.com/Phomolopp/Financial_Calculator/assets/133871015/288fd771-030e-4352-a838-a8d03f7cbad3)
+
